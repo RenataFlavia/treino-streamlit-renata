@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Meu primeiro aplicativo")
+st.title("Aplicativo de treinamento da Renata")
 
 valor = st.slider(
     "Escolha um número",
